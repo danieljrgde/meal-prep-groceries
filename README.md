@@ -2,6 +2,7 @@
 
 A quick and efficient solution to manage groceries for meal prepping, built using Google Sheets and Apps Script. This project automates the process of managing ingredient units, recipes, and grocery lists, making meal prep easier and more organized.
 
+![Demo](./assets/demo.gif)
 
 ## Features
 
